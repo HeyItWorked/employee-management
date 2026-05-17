@@ -2,6 +2,12 @@
 
 Full-stack CRUD application built with **Spring Boot** (backend) and **React + Vite** (frontend).
 
+## Tutorial
+
+A single-page walkthrough covering both the Spring Boot backend (Part 1) and React frontend (Part 2) is in [`docs/tutorial.html`](docs/tutorial.html).
+
+> **View rendered:** [htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/HeyItWorked/employee-management/blob/main/docs/tutorial.html)
+
 ## Tech Stack
 
 **Backend**
@@ -21,8 +27,10 @@ Full-stack CRUD application built with **Spring Boot** (backend) and **React + V
 
 ```
 employee-management/
-├── backend/    ← Spring Boot REST API
-└── frontend/   ← React SPA
+├── backend/           ← Spring Boot REST API
+├── frontend/          ← React SPA
+└── docs/
+    └── tutorial.html  ← Full-stack tutorial
 ```
 
 ## REST API Endpoints
