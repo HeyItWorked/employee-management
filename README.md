@@ -4,9 +4,11 @@ Full-stack CRUD application built with **Spring Boot** (backend) and **React + V
 
 ## Tutorial
 
-A single-page walkthrough covering both the Spring Boot backend (Part 1) and React frontend (Part 2) is in [`docs/tutorial.html`](docs/tutorial.html).
+A single-page walkthrough covering both the Spring Boot backend (Part 1) and React frontend (Part 2):
 
-> **View rendered:** [htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/HeyItWorked/employee-management/blob/main/docs/tutorial.html)
+👉 **[View tutorial](https://heyitworked.github.io/employee-management/tutorial.html)**
+
+Source: [`docs/tutorial.html`](docs/tutorial.html)
 
 ## Tech Stack
 
